@@ -1,1 +1,1 @@
-from .client import Client as JSONRPCClient
+from .short_url import ShortURL
